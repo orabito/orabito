@@ -17,10 +17,9 @@ Flutter Developer | Passionate About Scalable Mobile Solutions<br>Building cross
 
 ![](https://github-contributor-stats.vercel.app/api?username=orabito&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
-![GitHub forks](https://img.shields.io/github/forks/your-username/your-repo?style=social)
-![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)
-
+![GitHub stars](https://img.shields.io/github/stars/orabito/your-repo?style=social)
+![GitHub forks](https://img.shields.io/github/forks/orabito/your-repo?style=social)
+![GitHub followers](https://img.shields.io/github/followers/orabito?label=Follow&style=social)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/orabito/orabito/output/github-snake-dark.svg" />
